@@ -1,0 +1,142 @@
+,Compartment,Chamber,Experiment_Round,Box_Nr,Type_Barrier,Start_Date,Germinants_Added_Date,Fungus_Added,Fungal_Strain_Used,Fungal_Generation_Used,Date_Fungus_Crossed,Dye_Added_Date,Harvest_Date,Notes,Dry_Weight_g,Sample_Name,Total_Weight_mg,Tube Type,Note,Date,Comments,Duplicate,Compartment_abbr
+1,Shoot,Donor,2,3,Experimental,NA,6/9/2023,45089,494B,6,7/18/2023,45145,8/10/2023,7/5: Added 5 mL nutrients and 50 mL water,0.0925,2.3A.S,0.967,1,NA,4/15/2024,NA,NA,S
+2,Root,Donor,2,3,Experimental,NA,6/9/2023,45089,494B,6,7/18/2023,45145,8/10/2023,7/5: Added 5 mL nutrients and 50 mL water,0.0766,2.3A.R,NA,NA,NA,NA,NA,NA,R
+3,Shoot,Receiver,2,3,Experimental,NA,6/9/2023,45089,494B,6,7/18/2023,45145,8/10/2023,7/5: Added 5 mL nutrients and 50 mL water,0.0193,2.3B.S,0.901,1,NA,4/15/2024,NA,NA,S
+4,Root,Receiver,2,3,Experimental,NA,6/9/2023,45089,494B,6,7/18/2023,45145,8/10/2023,7/5: Added 5 mL nutrients and 50 mL water,0.038,2.3B.R,NA,NA,NA,NA,NA,NA,R
+5,Shoot,Donor,2,5,Experimental,NA,6/28/2023,45110,494B,7,7/18/2023,45145,8/10/2023,6/28: 5 mL nutrients + 50 mL water added to each chamber before 2-day old germinants added to each chamber. 7/24: Transplanted extra germinant from 14A to 5A to replace dead germinant,0.0313,2.5A.S,1.086,1,NA,4/15/2024,NA,NA,S
+6,Root,Donor,2,5,Experimental,NA,6/28/2023,45110,494B,7,7/18/2023,45145,8/10/2023,6/28: 5 mL nutrients + 50 mL water added to each chamber before 2-day old germinants added to each chamber. 7/24: Transplanted extra germinant from 14A to 5A to replace dead germinant,0.0209,2.5A.R,NA,NA,NA,NA,NA,NA,R
+7,Shoot,Receiver,2,5,Experimental,NA,6/28/2023,45110,494B,7,7/18/2023,45145,8/10/2023,6/28: 5 mL nutrients + 50 mL water added to each chamber before 2-day old germinants added to each chamber. 7/24: Transplanted extra germinant from 14A to 5A to replace dead germinant,0.0118,2.5B.S,0.989,1,NA,4/15/2024,NA,NA,S
+8,Root,Receiver,2,5,Experimental,NA,6/28/2023,45110,494B,7,7/18/2023,45145,8/10/2023,6/28: 5 mL nutrients + 50 mL water added to each chamber before 2-day old germinants added to each chamber. 7/24: Transplanted extra germinant from 14A to 5A to replace dead germinant,0.0304,2.5B.R,1.311,2,should be 2.5b.r,4/18/2024,NA,NA,R
+9,Shoot,Donor,4,9,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0567,4.9A.S,1.48,1,NA,4/15/2024,NA,NA,S
+10,Root,Donor,4,9,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0509,4.9A.R,1.355,1,NA,4/18/2024,NA,NA,R
+11,Shoot,Receiver,4,9,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.034,4.9B.S,1.068,1,NA,4/15/2024,NA,NA,S
+12,Root,Receiver,4,9,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0383,4.9B.R,1.236,1,NA,4/15/2024,NA,NA,R
+13,Shoot,Donor,4,8,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0644,4.8A.S,1.096,1,NA,4/15/2024,NA,NA,S
+14,Root,Donor,4,8,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0371,4.8A.R,1.34,1,NA,4/15/2024,NA,NA,R
+15,Shoot,Receiver,4,8,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0508,4.8B.S,0.987,1,NA,4/15/2024,NA,NA,S
+16,Root,Receiver,4,8,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0755,4.8B.R,1.115,2,NA,4/15/2024,NA,NA,R
+17,Shoot,Donor,4,11,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/31: Evened out growth medium (it was sloping towards one side of the container). Was supposed to be sterile but added a plug of DSE to make it experimental (accidentally). Unsure if the fungus crossed to Chamber B in this replicate,0.0423,4.11A.S,1.016,1,NA,4/18/2024,NA,NA,S
+18,Root,Donor,4,11,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/31: Evened out growth medium (it was sloping towards one side of the container). Was supposed to be sterile but added a plug of DSE to make it experimental (accidentally). Unsure if the fungus crossed to Chamber B in this replicate,0.0701,4.11A.R,1.034,2,NA,4/18/2024,NA,NA,R
+19,Shoot,Receiver,4,11,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/31: Evened out growth medium (it was sloping towards one side of the container). Was supposed to be sterile but added a plug of DSE to make it experimental (accidentally). Unsure if the fungus crossed to Chamber B in this replicate,0.011,4.11B.S,1.4,1,NA,4/15/2024,NA,NA,S
+20,Root,Receiver,4,11,Experimental,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/31: Evened out growth medium (it was sloping towards one side of the container). Was supposed to be sterile but added a plug of DSE to make it experimental (accidentally). Unsure if the fungus crossed to Chamber B in this replicate,0.0112,4.11B.R,1.647,1,NA,4/15/2024,NA,NA,R
+21,Shoot,Donor,4,10,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/10: Pushed A germ back into soil,0.1069,4.10A.S,1.08,1,NA,4/18/2024,NA,NA,S
+22,Root,Donor,4,10,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/10: Pushed A germ back into soil,0.1044,4.10A.R,1.121,2,NA,4/18/2024,NA,NA,R
+23,Shoot,Receiver,4,10,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/10: Pushed A germ back into soil,0.0157,4.10B.S,1.047,1,NA,4/15/2024,NA,NA,S
+24,Root,Receiver,4,10,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/10: Pushed A germ back into soil,0.0132,4.10B.R,0.988,2,NA,4/15/2024,NA,NA,R
+25,Shoot,Donor,4,7,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 7A. 7A plant too small to take much dye, lots of leakage",0.0095,4.7A.S,1.065,1,NA,4/18/2024,NA,NA,S
+26,Root,Donor,4,7,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 7A. 7A plant too small to take much dye, lots of leakage",0.0093,4.7A.R,1.126,2,NA,4/18/2024,NA,NA,R
+27,Shoot,Receiver,4,7,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 7A. 7A plant too small to take much dye, lots of leakage",0.0163,4.7B.S,1.11,1,NA,4/15/2024,NA,NA,S
+28,Root,Receiver,4,7,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 7A. 7A plant too small to take much dye, lots of leakage",0.0169,4.7B.R,0.988,2,NA,4/15/2024,NA,NA,R
+29,Shoot,Donor,4,18,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 18B; removed it on 7/24 because both ended up germinating. Plants very dried out, difficult to get dye into",0.0164,4.18A.S,1.067,1,NA,4/18/2024,NA,NA,S
+30,Root,Donor,4,18,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 18B; removed it on 7/24 because both ended up germinating. Plants very dried out, difficult to get dye into",0.0112,4.18A.R,1.177,1,NA,4/18/2024,NA,NA,R
+31,Shoot,Receiver,4,18,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 18B; removed it on 7/24 because both ended up germinating. Plants very dried out, difficult to get dye into",0.0136,4.18B.S,1.164,1,NA,4/15/2024,NA,NA,S
+32,Root,Receiver,4,18,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 18B; removed it on 7/24 because both ended up germinating. Plants very dried out, difficult to get dye into",0.0229,4.18B.R,1.195,2,NA,4/15/2024,NA,NA,R
+33,Shoot,Donor,4,19,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0352,4.19A.S,1.329,1,NA,4/18/2024,NA,NA,S
+34,Root,Donor,4,19,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0413,4.19A.R,1.019,1,NA,4/18/2024,NA,NA,R
+35,Shoot,Receiver,4,19,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0117,4.19B.S,1.713,1,NA,4/15/2024,NA,NA,S
+36,Root,Receiver,4,19,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0118,4.19B.R,1.368,2,NA,4/15/2024,NA,NA,R
+37,Shoot,Donor,4,20,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0305,4.20A.S,1.266,1,NA,4/18/2024,NA,NA,S
+38,Root,Donor,4,20,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0302,4.20A.R,1.426,1,NA,4/18/2024,NA,NA,R
+39,Shoot,Receiver,4,20,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0078,4.20B.S,0.983,1,NA,4/15/2024,NA,NA,S
+40,Root,Receiver,4,20,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0115,4.20B.R,1.079,2,NA,4/15/2024,NA,NA,R
+41,Shoot,Donor,4,21,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 21A, removed it on 7/24 because both ended up germinating. 21A plant too small to take much dye, lots of leakage",0.0063,4.21A.S,1.097,1,NA,4/18/2024,NA,NA,S
+42,Root,Donor,4,21,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 21A, removed it on 7/24 because both ended up germinating. 21A plant too small to take much dye, lots of leakage",0.0081,4.21A.R,1.082,2,NA,4/18/2024,NA,NA,R
+43,Shoot,Receiver,4,21,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 21A, removed it on 7/24 because both ended up germinating. 21A plant too small to take much dye, lots of leakage",0.0193,4.21B.S,1.068,1,NA,4/15/2024,NA,NA,S
+44,Root,Receiver,4,21,Sterile,7/10/2023,7/12/2023,NA,NA,NA,NA,45145,8/10/2023,"Added second germinant to 21A, removed it on 7/24 because both ended up germinating. 21A plant too small to take much dye, lots of leakage",0.0105,4.21B.R,1.004,2,NA,4/15/2024,NA,NA,R
+45,Shoot,Donor,4,22,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0412,4.22A.S,1.059,1,NA,4/18/2024,NA,NA,S
+46,Root,Donor,4,22,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0651,4.22A.R,1.112,2,NA,4/18/2024,NA,NA,R
+47,Shoot,Receiver,4,22,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0215,4.22B.S,0.944,1,NA,4/15/2024,NA,NA,S
+48,Root,Receiver,4,22,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0099,4.22B.R,1.095,1,NA,4/15/2024,NA,NA,R
+49,Root,Receiver,4,22,Impermeable,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0099,4.22B.R,0.915,1,NA,4/15/2024,NA,2,R
+50,Shoot,Donor,4,12,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0392,4.12A.S,1.284,1,NA,4/18/2024,NA,NA,S
+51,Root,Donor,4,12,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0348,4.12A.R,1.049,1,NA,4/18/2024,NA,NA,R
+52,Shoot,Receiver,4,12,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,NA,4.12B.S,0.846,1,NA,4/15/2024,NA,NA,S
+53,Root,Receiver,4,12,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0235,4.12B.R,1.084,2,NA,4/15/2024,NA,NA,R
+54,Shoot,Donor,4,6,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 6B,0.0159,4.6A.S,1.262,1,NA,4/18/2024,NA,NA,S
+55,Root,Donor,4,6,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 6B,0.0355,4.6A.R,1.963,1,NA,4/15/2024,NA,NA,R
+56,Shoot,Receiver,4,6,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 6B,0.0184,4.6B.S,1.421,1,NA,4/15/2024,NA,NA,S
+57,Root,Receiver,4,6,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 6B,0.013,4.6B.R,1.057,2,NA,4/15/2024,NA,NA,R
+58,Shoot,Donor,4,13,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,"Added second germinant to 13A and 13B; removed 13A extra germinant on 7/24, removed 13B extra germinant on 7/31",0.0247,4.13A.S,1.018,1,NA,4/18/2024,NA,NA,S
+59,Root,Donor,4,13,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,"Added second germinant to 13A and 13B; removed 13A extra germinant on 7/24, removed 13B extra germinant on 7/31",0.049,4.13A.R,1.306,1,NA,4/18/2024,NA,NA,R
+60,Shoot,Receiver,4,13,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,"Added second germinant to 13A and 13B; removed 13A extra germinant on 7/24, removed 13B extra germinant on 7/31",0.0221,4.13B.S,0.94,1,NA,4/15/2024,NA,NA,S
+61,Root,Receiver,4,13,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,"Added second germinant to 13A and 13B; removed 13A extra germinant on 7/24, removed 13B extra germinant on 7/31",0.0368,4.13B.R,1.247,2,NA,4/15/2024,NA,NA,R
+62,Shoot,Donor,4,14,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 14A,0.0338,4.14A.S,1.017,1,NA,4/15/2024,NA,NA,S
+63,Root,Donor,4,14,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 14A,0.0661,4.14A.R,1.055,2,NA,4/15/2024,NA,NA,R
+64,Shoot,Receiver,4,14,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 14A,0.031,4.14B.S,1.3,1,NA,4/15/2024,NA,NA,S
+65,Root,Receiver,4,14,Diffusion1,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,Added second germinant to 14A,0.0403,4.14B.R,1.101,2,NA,4/15/2024,NA,NA,R
+66,Shoot,Donor,4,17,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Removed extra germinant from 14A,0.0877,4.17A.S,1.139,1,NA,4/15/2024,NA,NA,S
+67,Root,Donor,4,17,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Removed extra germinant from 14A,0.0585,4.17A.R,1.303,1,NA,4/15/2024,NA,NA,R
+68,Root,Donor,4,17,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Removed extra germinant from 14A,0.0585,4.17A.R,1.436,1,NA,4/15/2024,NA,2,R
+69,Shoot,Receiver,4,17,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Removed extra germinant from 14A,0.1017,4.17B.S,1.124,1,NA,4/15/2024,NA,NA,S
+70,Root,Receiver,4,17,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Removed extra germinant from 14A,0.0355,4.17B.R,1.331,1,NA,4/15/2024,NA,NA,R
+71,Shoot,Donor,4,4,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.1128,4.4A.S,1.2,1,NA,4/15/2024,NA,NA,S
+72,Root,Donor,4,4,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0725,4.4A.R,1.241,1,NA,4/15/2024,NA,NA,R
+73,Shoot,Receiver,4,4,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0757,4.4B.S,0.923,1,NA,4/15/2024,NA,NA,S
+74,Root,Receiver,4,4,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0439,4.4B.R,1.577,1,NA,4/15/2024,NA,NA,R
+75,Shoot,Donor,4,15,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Added extra germinant from 18B to 15B to replace dead one,0.1024,4.15A.S,1.014,1,NA,4/15/2024,NA,NA,S
+76,Root,Donor,4,15,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Added extra germinant from 18B to 15B to replace dead one,0.1061,4.15A.R,1.065,2,NA,4/15/2024,NA,NA,R
+77,Shoot,Receiver,4,15,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Added extra germinant from 18B to 15B to replace dead one,0.0265,4.15B.S,1.125,1,NA,4/15/2024,NA,NA,S
+78,Root,Receiver,4,15,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,7/24: Added extra germinant from 18B to 15B to replace dead one,0.0563,4.15B.R,0.938,1,NA,4/15/2024,NA,NA,R
+79,Shoot,Donor,4,16,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0388,4.16A.S,1.062,1,NA,4/15/2024,NA,NA,S
+80,Root,Donor,4,16,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0465,4.16A.R,1.155,1,NA,4/15/2024,NA,NA,R
+81,Shoot,Receiver,4,16,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0937,4.16B.S,1.336,1,NA,4/15/2024,NA,NA,S
+82,Root,Receiver,4,16,Barrierless,7/10/2023,7/12/2023,45124,494B,9,NA,45145,8/10/2023,NA,0.0439,4.16B.R,0.913,1,NA,4/15/2024,NA,NA,R
+83,Shoot,Donor,5,2,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.042,5.2A.S,1.045,1,NA,4/18/2024,NA,NA,S
+84,Root,Donor,5,2,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.075,5.2A.R,1.058,2,NA,4/18/2024,NA,NA,R
+85,Shoot,Receiver,5,2,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0122,5.2B.S,0.936,1,NA,4/15/2024,NA,NA,S
+86,Root,Receiver,5,2,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0194,5.2B.R,1.258,2,NA,4/15/2024,NA,NA,R
+87,Shoot,Donor,5,6,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0547,5.6A.S,1.447,1,NA,4/18/2024,NA,NA,S
+88,Root,Donor,5,6,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0662,5.6A.R,1.097,2,NA,4/18/2024,NA,NA,R
+89,Shoot,Receiver,5,6,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0133,5.6B.S,1.225,1,NA,4/15/2024,NA,NA,S
+90,Root,Receiver,5,6,Impermeable,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0142,5.6B.R,1.201,2,NA,4/15/2024,NA,NA,R
+91,Shoot,Donor,5,9,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0639,5.9A.S,1.182,1,NA,4/18/2024,NA,NA,S
+92,Root,Donor,5,9,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.1032,5.9A.R,1.041,2,NA,4/18/2024,NA,NA,R
+93,Shoot,Receiver,5,9,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0345,5.9B.S,1.101,1,NA,4/15/2024,NA,NA,S
+94,Root,Receiver,5,9,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0399,5.9B.R,1.217,2,NA,4/15/2024,NA,NA,R
+95,Shoot,Donor,5,10,Diffusion1,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0924,5.10A.S,1.56,1,NA,4/18/2024,NA,NA,S
+96,Root,Donor,5,10,Diffusion1,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.07,5.10A.R,1.108,2,NA,4/18/2024,NA,NA,R
+97,Shoot,Receiver,5,10,Diffusion1,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.029,5.10B.S,0.925,1,NA,4/15/2024,NA,NA,S
+98,Root,Receiver,5,10,Diffusion1,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0182,5.10B.R,1.79,2,NA,4/15/2024,NA,NA,R
+99,Shoot,Donor,5,11,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0313,5.11A.S,1.006,1,NA,4/18/2024,NA,NA,S
+100,Root,Donor,5,11,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0467,5.11A.R,1.292,2,NA,4/18/2024,NA,NA,R
+101,Shoot,Receiver,5,11,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0172,5.11B.S,0.99,1,NA,4/15/2024,NA,NA,S
+102,Root,Receiver,5,11,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0358,5.11B.R,1.06,2,NA,4/15/2024,NA,NA,R
+103,Shoot,Donor,5,13,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0373,5.13A.S,1.005,1,NA,4/18/2024,NA,NA,S
+104,Root,Donor,5,13,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0766,5.13A.R,1.108,2,NA,4/18/2024,NA,NA,R
+105,Shoot,Receiver,5,13,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0247,5.13B.S,1.231,1,NA,4/15/2024,NA,NA,S
+106,Root,Receiver,5,13,Diffusion2,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0326,5.13B.R,1.031,2,NA,4/15/2024,NA,NA,R
+107,Shoot,Donor,5,16,Sterile,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0178,5.16A.S,1.171,1,NA,4/18/2024,NA,NA,S
+108,Root,Donor,5,16,Sterile,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0096,5.16A.R,1.066,2,NA,4/18/2024,NA,NA,R
+109,Shoot,Receiver,5,16,Sterile,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0168,5.16B.S,1.013,1,NA,4/15/2024,NA,NA,S
+110,Root,Receiver,5,16,Sterile,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0142,5.16B.R,1.193,2,NA,4/18/2024,NA,NA,R
+111,Shoot,Donor,5,17,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0226,5.17A.S,1.712,1,NA,4/18/2024,NA,NA,S
+112,Root,Donor,5,17,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0164,5.17A.R,1.157,2,NA,4/18/2024,NA,NA,R
+113,Shoot,Receiver,5,17,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0223,5.17B.S,1.153,1,NA,4/15/2024,NA,NA,S
+114,Root,Receiver,5,17,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0106,5.17B.R,1.16,2,NA,4/15/2024,NA,NA,R
+115,Shoot,Donor,5,20,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0281,5.20A.S,1.238,1,NA,4/18/2024,NA,NA,S
+116,Root,Donor,5,20,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0217,5.20A.R,0.932,1,NA,4/18/2024,NA,NA,R
+117,Root,Donor,5,20,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0217,5.20A.R,1.007,2,NA,4/18/2024,NA,2,R
+118,Shoot,Receiver,5,20,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0133,5.20B.S,0.998,1,NA,4/15/2024,NA,NA,S
+119,Root,Receiver,5,20,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0168,5.20B.R,1.322,2,NA,4/15/2024,NA,NA,R
+120,Shoot,Donor,5,21,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0561,5.21A.S,1.297,1,NA,4/18/2024,NA,NA,S
+121,Root,Donor,5,21,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0135,5.21A.R,1.023,2,NA,4/18/2024,NA,NA,R
+122,Shoot,Receiver,5,21,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0166,5.21B.S,1.251,1,NA,4/15/2024,NA,NA,S
+123,Root,Receiver,5,21,Diffusion3,10/17/2023,10/19/2023,45223,NA,NA,NA,45244,11/17/2023,NA,0.0181,5.21B.R,1.169,2,NA,4/15/2024,NA,NA,R
+124,Shoot,Donor,5,22,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0185,5.22A.S,1.233,1,NA,4/18/2024,NA,NA,S
+125,Shoot,Donor,5,22,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0185,5.22A.S,1.671,1,NA,4/18/2024,NA,2,S
+126,Root,Donor,5,22,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0112,5.22A.R,1.037,2,NA,4/18/2024,NA,NA,R
+127,Shoot,Receiver,5,22,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0108,5.22B.S,1.374,1,NA,4/15/2024,NA,NA,S
+128,Root,Receiver,5,22,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0166,5.22B.R,1.051,2,NA,4/15/2024,NA,NA,R
+129,Shoot,Donor,5,23,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0131,5.23A.S,1.076,1,NA,4/18/2024,NA,NA,S
+130,Root,Donor,5,23,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0088,5.23A.R,1.319,2,NA,4/18/2024,NA,NA,R
+131,Shoot,Receiver,5,23,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.008,5.23B.S,1.228,1,NA,4/15/2024,NA,NA,S
+132,Root,Receiver,5,23,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.008,5.23B.R,0.944,2,NA,4/15/2024,NA,NA,R
+133,Shoot,Donor,5,24,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0101,5.24A.S,1.231,1,NA,4/18/2024,NA,NA,S
+134,Shoot,Donor,5,24,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0101,5.24A.S,1.435,1,NA,4/18/2024,NA,2,S
+135,Root,Donor,5,24,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.027,5.24A.R,1.225,2,NA,4/18/2024,NA,NA,R
+136,Shoot,Receiver,5,24,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0015,5.24B.S,0.963,1,NA,4/15/2024,NA,NA,S
+137,Root,Receiver,5,24,Oyster,10/17/2023,10/19/2023,45223,P.o.bb,3,NA,45244,11/17/2023,NA,0.0184,5.24B.R,1.215,2,NA,4/15/2024,NA,NA,R
+138,Shoot,Donor,5,7,Barrierless,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0655,5.7A.S,1.168,1,NA,4/15/2024,NA,NA,S
+139,Root,Donor,5,7,Barrierless,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.0437,5.7A.R,1.311,2,NA,4/15/2024,NA,NA,R
+140,Shoot,Receiver,5,7,Barrierless,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.096,5.7B.S,1.262,1,NA,4/15/2024,NA,NA,S
+141,Root,Receiver,5,7,Barrierless,10/17/2023,10/19/2023,45223,494B,3B,NA,45244,11/17/2023,NA,0.1689,5.7B.R,1.041,2,NA,4/15/2024,NA,NA,R
